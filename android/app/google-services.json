@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "408276834554",
+    "project_id": "boi-pori-5",
+    "storage_bucket": "boi-pori-5.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:408276834554:android:777c4f29e898a6e10f1143",
+        "android_client_info": {
+          "package_name": "com.mhs.co.ltd.boiporo"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBlvkxdDcMwxq9u-IVWesVTAZGNbO8GJjU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
