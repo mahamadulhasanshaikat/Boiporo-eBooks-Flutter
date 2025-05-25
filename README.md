@@ -1,16 +1,1 @@
-# boiporo
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Boiporo eBooks is a mobile application developed using Flutter, designed for reading and accessing eBooks conveniently. The app features a clean and user-friendly interface for browsing, reading, and downloading books. It supports dynamic content loading and offers a smooth reading experience. The project follows a modular and scalable architecture for easy maintenance. It is an ideal solution for digital book lovers seeking a lightweight and responsive reading platform.
